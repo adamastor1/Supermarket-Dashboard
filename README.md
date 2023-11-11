@@ -7,7 +7,7 @@ streamlit run app.py
 
 # quit
 ctrl-c
-"""
+'''
 
 # Screenshot
 ![](https://github.com/adamastor1/Supermarket-Dashboard/blob/main/dashboard_screenshot1.png)
