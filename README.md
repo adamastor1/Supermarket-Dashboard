@@ -10,8 +10,8 @@ streamlit run app.py
 ctrl-c
 ```
 
-##:camera: Screenshot
+## :camera: Screenshot
 ![](https://github.com/adamastor1/Supermarket-Dashboard/blob/main/dashboard_screenshot1.png)
 
-##🤝 Stay Connected
+## 🤝 Stay Connected
 :briefcase: LinkedIn: [Adam Astor](https://www.linkedin.com/in/adamastor/)
